@@ -1,0 +1,21 @@
+scenario,method,rejection_rate,mc_se
+"A. Indépendants, attracteur constant",Corrélation (permutation),0.345,0.033613613313656115
+"A. Indépendants, attracteur constant",Prox (permutation),0.195,0.028015620642777128
+"A. Indépendants, attracteur constant",Cs de Kenward (permutation),0.325,0.03311910324872942
+"A. Indépendants, attracteur constant","OU - LRT, moyenne constante",0.045,0.014658615214269049
+"A. Indépendants, attracteur constant","OU - LRT, moyenne + rythme 24 h",0.04,0.013856406460551017
+"B. Indépendants, rythme nycthéméral",Corrélation (permutation),1.0,0.0
+"B. Indépendants, rythme nycthéméral",Prox (permutation),1.0,0.0
+"B. Indépendants, rythme nycthéméral",Cs de Kenward (permutation),1.0,0.0
+"B. Indépendants, rythme nycthéméral","OU - LRT, moyenne constante",1.0,0.0
+"B. Indépendants, rythme nycthéméral","OU - LRT, moyenne + rythme 24 h",0.05,0.015411035007422441
+"C. Interaction, attracteur constant",Corrélation (permutation),0.935,0.01743201078476031
+"C. Interaction, attracteur constant",Prox (permutation),0.595,0.0347113093962184
+"C. Interaction, attracteur constant",Cs de Kenward (permutation),0.915,0.019719913792915014
+"C. Interaction, attracteur constant","OU - LRT, moyenne constante",0.605,0.03456696399743547
+"C. Interaction, attracteur constant","OU - LRT, moyenne + rythme 24 h",0.515,0.03533942557541082
+"D. Interaction, rythme nycthéméral",Corrélation (permutation),1.0,0.0
+"D. Interaction, rythme nycthéméral",Prox (permutation),1.0,0.0
+"D. Interaction, rythme nycthéméral",Cs de Kenward (permutation),1.0,0.0
+"D. Interaction, rythme nycthéméral","OU - LRT, moyenne constante",1.0,0.0
+"D. Interaction, rythme nycthéméral","OU - LRT, moyenne + rythme 24 h",0.6,0.034641016151377546
